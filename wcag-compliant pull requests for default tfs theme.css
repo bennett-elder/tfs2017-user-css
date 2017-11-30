@@ -1,0 +1,27 @@
+.vc-diff-viewer .code-line.deleted-content, .diff-line-count-container.file-lines-deleted {
+  background-color: #DDA0DD;
+  color: black;
+}
+
+div.deleted-content span.content-original {
+  background-color: #B30000;
+  color: white;
+}
+
+.vc-diff-viewer .code-line.deleted-content-fullrow {
+  background-color: #B30000;
+  color: white;
+}
+
+.vc-diff-viewer .code-line.added-content {
+    background-color: #90EE90;
+    color: black;
+}
+div.added-content span.content-modified {
+    background-color: #006600;
+    color: white;
+}
+.vc-diff-viewer .code-line.added-content-fullrow {
+    background-color: #006600;
+    color: white;
+}
